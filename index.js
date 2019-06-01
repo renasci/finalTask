@@ -260,9 +260,6 @@ class ViewCurr {
 
 }
 
-
-
-
 let viewCurr = new ViewCurr();
 let curr = new Curr(viewCurr);
 curr.getCurr();
